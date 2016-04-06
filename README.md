@@ -13,3 +13,7 @@ Minimal theme for the rEFInd boot manager
 3. Clone this repo into the `themes` folder
 
 4. Add `include themes/ambience/theme.conf` to `refind.conf`
+
+## Contribution
+
+Pull requests for more OS icons are welcome. Please make sure the image is a 256x256 solid white png at 75% transparency. To keep alignment consistent the actual icon should be roughly 132x132 in the middle of the png. Depending on the shape of the icon, the size and position may vary to get better results.
