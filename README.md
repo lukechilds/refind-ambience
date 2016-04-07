@@ -12,7 +12,7 @@ Minimal theme for the rEFInd boot manager
 
 3. Clone this repo into the `themes` folder
 
-4. Add `include themes/ambience/theme.conf` to `refind.conf`
+4. Add `include themes/refind-ambience/theme.conf` to `refind.conf`
 
 ## Contribution
 
