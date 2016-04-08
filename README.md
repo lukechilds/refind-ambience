@@ -20,6 +20,6 @@ Pull requests for more OS icons are welcome. Please make sure the image is a 256
 
 ## Credits
 
-This theme was inspired by [rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) by @EvanPurkhiser
+This theme was inspired by [rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) by [@EvanPurkhiser](https://github.com/EvanPurkhiser)
 
 I don't seem to be able to find an original source for the background image. If you created it, let me know, I'm happy to provide attribution or remove it if it's an issue.
